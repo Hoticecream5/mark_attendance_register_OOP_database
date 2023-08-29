@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/studentNumberEdtTxt"
+        android:layout_width="263dp"
+        android:layout_height="68dp"
+        android:hint="Student Number ..."
+        android:layout_centerInParent="true"/>
+
+    <Button
+        android:id="@+id/doneBtn"
+        android:layout_width="187dp"
+        android:layout_height="61dp"
+        android:text="Done"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/studentNumberEdtTxt"/>
+</RelativeLayout>

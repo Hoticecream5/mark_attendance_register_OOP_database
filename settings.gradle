@@ -1,0 +1,2 @@
+rootProject.name = "jiujitsu-NWU"
+include ':app'

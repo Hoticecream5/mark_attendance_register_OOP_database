@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784450550397",
+    "project_id": "jiujitsu-nwu",
+    "storage_bucket": "jiujitsu-nwu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784450550397:android:a17a0a6e42b2eedd2acf14",
+        "android_client_info": {
+          "package_name": "joe.com.jiujitsu_nwu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784450550397-eepd186hq0pmdkkfppighgdbciak0pok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp2euUIKZ9oWbFSVDJMW2-u5d6Y5UGVo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784450550397-eepd186hq0pmdkkfppighgdbciak0pok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
